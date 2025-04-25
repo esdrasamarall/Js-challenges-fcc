@@ -1,0 +1,2 @@
+# 40Exercixios-dePratica.JS
+ 
