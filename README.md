@@ -1,4 +1,4 @@
-# 40Exercixios-dePratica.JS
+# 40 Exercicios Para Pratica De JS
  
 # 🚀 Projetos Front-End | JavaScript Puro, React e TypeScript
 
