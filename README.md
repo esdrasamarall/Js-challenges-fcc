@@ -11,7 +11,7 @@ Vou ir resolvendo os projetos **um por um**, praticando JavaScript puro, React e
 
 ## 📁 Projetos em JavaScript Puro
 
-1. [Como criar um trocador de cores (Desafio 01)](https://github.com/esdrasamarall/desafios-js-freecodecamp/blob/main/desafio-01.js)
+1. [Como criar um trocador de cores (Desafio 01)](https://github.com/esdrasamarall/Js-challenges-fcc/tree/5ab6578f0f30b1bd54fa2b9bbea77fd9c92da0ec/desafio01)
 2. [Como criar um contador (Desafio 02)](https://github.com/esdrasamarall/Js-challenges-fcc/tree/a1a89c5d48fc3fca436020f2cf0ce12e8eea3875/desafio02)
 3. Como criar um carrossel de revisões  
 4. Como criar uma navbar responsiva  
